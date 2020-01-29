@@ -1,2 +1,3 @@
-# prakalpro1
-praktikum alpro1
+# Praktikum Algoritma & Pemrograman 1
+
+### Pendahuluan
