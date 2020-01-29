@@ -8,3 +8,5 @@ Repository ini merupakan modul praktikum algoritma & pemrograman 1, menggunakan 
 2. [Praktikum 2 - Tipe data pada python](https://github.com/twseptian/prakalpro1/blob/master/prak-2-tipe-data.ipynb)
 3. [Praktikum 3 - Variable](https://github.com/twseptian/prakalpro1/blob/master/prak-3-variable.ipynb)
 4. [Praktikum 4 - Operator](https://github.com/twseptian/prakalpro1/blob/master/prak-4-operator.ipynb)
+
+**NOTE:** untuk materi berikutnya akan diupdate
