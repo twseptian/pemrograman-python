@@ -5,7 +5,7 @@
 original url: https://github.com/twseptian/pemrograman-python
 
 Repository ini merupakan modul praktikum algoritma & pemrograman 1, menggunakan python (versi 3 keatas), selain memahami syntax pada bahasa pemrograman python, mahasiswa mengerti konsep dari algoritma, logika dalam memecahkan masalah dan mengimplementasikan nya ke dalam bahasa pemrograman. 
-Tools yang digunakan,antara lain: 
+<br>Tools yang digunakan,antara lain: 
 - [Pycharm IDE](https://www.jetbrains.com/pycharm/)
 - [Jupypter-Notebook](https://jupyter.org/), 
 - [Jupyter-Lab,](https://jupyterlab.readthedocs.io/en/stable/)
