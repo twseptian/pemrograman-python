@@ -14,18 +14,18 @@ Tools yang digunakan,antara lain:
 - [Google Colab](colab.research.google.com)
 
 ### Materi
-1. [Praktikum 1 - Menjalankan syntax dasar python](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-1-menjalankan-python.ipynb); [solusi program ]()
-2. [Praktikum 2 - Tipe data pada python](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-2-tipe-data.ipynb); [solusi program ]()
-3. [Praktikum 3 - Variable](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-3-variable.ipynb); [solusi program ]()
-4. [Praktikum 4 - Operator](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-4-operator.ipynb); [solusi program ]()
-5. [Praktikum 5 - Kondisi](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-5-kondisi.ipynb); [solusi program ]()
-6. Praktikum 6 - **belum di upload**
-7. Praktikum 7 - **belum di upload**
-8. Praktikum 8 - **belum di upload**
-9. Praktikum 9 - **belum di upload**
-10. Praktikum 10 - **belum di upload**
-11. Praktikum 11 -  **belum di upload**
-12. Praktikum 12 -  **belum di upload**
-13. Praktikum 13 -  **belum di upload**
+1. [Modul Praktikum 1 - Menjalankan syntax dasar python](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-1-menjalankan-python.ipynb); [solusi program ]()
+2. [Modul Praktikum 2 - Tipe data pada python](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-2-tipe-data.ipynb); [solusi program ]()
+3. [Modul Praktikum 3 - Variable](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-3-variable.ipynb); [solusi program ]()
+4. [Modul Praktikum 4 - Operator](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-4-operator.ipynb); [solusi program ]()
+5. [Modul Praktikum 5 - Kondisi](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-5-kondisi.ipynb); [solusi program ]()
+6. Modul Praktikum 6 - **belum di upload**
+7. Modul Praktikum 7 - **belum di upload**
+8. Modul Praktikum 8 - **belum di upload**
+9. Modul Praktikum 9 - **belum di upload**
+10. Modul Praktikum 10 - **belum di upload**
+11. Modul Praktikum 11 -  **belum di upload**
+12. Modul Praktikum 12 -  **belum di upload**
+13. Modul Praktikum 13 -  **belum di upload**
 
 **NOTE:** untuk materi berikutnya akan diupdate
