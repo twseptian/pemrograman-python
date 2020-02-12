@@ -1,4 +1,4 @@
-# Praktikum Algoritma & Pemrograman 1
+# Pemrograman
 
 ### Pendahuluan
 
