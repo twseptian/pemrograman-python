@@ -19,7 +19,13 @@ Tools yang digunakan,antara lain:
 3. [Praktikum 3 - Variable](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-3-variable.ipynb); [solusi program ]()
 4. [Praktikum 4 - Operator](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-4-operator.ipynb); [solusi program ]()
 5. [Praktikum 5 - Kondisi](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-5-kondisi.ipynb); [solusi program ]()
-6. Praktikum 6
-
+6. Praktikum 6 - **belum di upload**
+7. Praktikum 7 - **belum di upload**
+8. Praktikum 8 - **belum di upload**
+9. Praktikum 9 - **belum di upload**
+10. Praktikum 10 - **belum di upload**
+11. Praktikum 11 -  **belum di upload**
+12. Praktikum 12 -  **belum di upload**
+13. Praktikum 13 -  **belum di upload**
 
 **NOTE:** untuk materi berikutnya akan diupdate
