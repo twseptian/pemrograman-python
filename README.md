@@ -18,7 +18,7 @@ Tools yang digunakan,antara lain:
 2. [Praktikum 2 - Tipe data pada python](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-2-tipe-data.ipynb)
 3. [Praktikum 3 - Variable](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-3-variable.ipynb)
 4. [Praktikum 4 - Operator](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-4-operator.ipynb)
-5. Praktikum 5
+5. [Praktikum 5 - Kondisi](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/modul-5-kondisi.ipynb)
 6. Praktikum 6
 
 
