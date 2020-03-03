@@ -28,4 +28,6 @@ Tools yang digunakan,antara lain:
 12. Modul Praktikum 12 -  **belum di upload**
 13. Modul Praktikum 13 -  **belum di upload**
 
+### Exam
+1. [Soal Quiz](https://github.com/twseptian/pemrograman-python/blob/master/documents/soal-kuis.pdf) dan [pembahasannya](https://github.com/twseptian/pemrograman-python/tree/master/scripts)
 **NOTE:** untuk materi berikutnya akan diupdate
