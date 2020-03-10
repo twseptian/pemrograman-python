@@ -27,3 +27,14 @@ Sebagai catatan, untuk menghitung jumlah karakter huruf, silahkan anda gantikan 
 **Task:** Tugas anda adalah menggabungkan `isdigit` dan `isalpha` dalam menghitung sejumlah karakter angka dan huruf, seperti pada output video di bawah
 
 [![asciicast](https://asciinema.org/a/rv2dZkUY9vRYwD4EvkB2g9zxP.svg)](https://asciinema.org/a/rv2dZkUY9vRYwD4EvkB2g9zxP)
+
+
+3. Buat program tampilan output berikut:
+
+![image](img/tgsno3.png)
+
+4. Buat program yang menampilkan output list yang habis di bagi oleh 3 dan tidak boleh menampilkan lebih dari 151 dari list berikut: 
+
+`list1 = [13, 15, 30, 41, 45, 55, 75, 95, 102, 135, 139, 151, 193, 200]`
+
+![image](img/tgsno4.png)
