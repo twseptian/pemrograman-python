@@ -32,11 +32,11 @@ Tools yang digunakan,antara lain:
 
 ### Tugas
 1. [Tugas mandiri 1](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/tugas-mandiri.md)
-2. [Tugas mandiri 2]() **belum tersedia**
+2. [Tugas mandiri 2]() - **belum tersedia**
 
 **NOTE:** Tugas mandiri, adalah tugas tambahan selain tugas yang diberikan setelah praktikum
 
 ### Ujian
 1. [Soal Quiz](https://github.com/twseptian/pemrograman-python/blob/master/documents/soal-kuis.pdf) dan [pembahasannya](https://github.com/twseptian/pemrograman-python/tree/master/scripts)
-2. [Soal UTS]()
+2. [Soal UTS]() - **belum tersedia**
 
