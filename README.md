@@ -20,19 +20,19 @@ Tools yang digunakan,antara lain:
 4. [Modul Praktikum 4 - Operator](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-4-operator.ipynb) dan [solusi program ]()
 5. [Modul Praktikum 5 - Kondisi](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-5-kondisi.ipynb) dan [solusi program ]()
 6. [Modul Praktikum 6 - Perulangan](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-6-perulangan.ipynb) dan [solusi program ]()
-7. Modul Praktikum 7 - **belum di upload**
-8. Modul Praktikum 8 - **belum di upload**
-9. Modul Praktikum 9 - **belum di upload**
-10. Modul Praktikum 10 - **belum di upload**
-11. Modul Praktikum 11 -  **belum di upload**
-12. Modul Praktikum 12 -  **belum di upload**
-13. Modul Praktikum 13 -  **belum di upload**
+7. Modul Praktikum 7 - **belum tersedia**
+8. Modul Praktikum 8 - **belum tersedia**
+9. Modul Praktikum 9 - **belum tersedia**
+10. Modul Praktikum 10 - **belum tersedia**
+11. Modul Praktikum 11 -  **belum tersedia**
+12. Modul Praktikum 12 -  **belum tersedia**
+13. Modul Praktikum 13 -  **belum tersedia**
 
 **NOTE:** untuk materi berikutnya akan diupdate
 
 ### Tugas
 1. [Tugas mandiri 1](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/tugas-mandiri.md)
-2. [Tugas mandiri 2]
+2. [Tugas mandiri 2]() **belum tersedia**
 
 **NOTE:** Tugas mandiri, adalah tugas tambahan selain tugas yang diberikan setelah praktikum
 
