@@ -28,7 +28,7 @@ Tools yang digunakan,antara lain:
 12. Modul Praktikum 12 -  **belum tersedia**
 13. Modul Praktikum 13 -  **belum tersedia**
 
-<p class="callout info">NOTE: untuk materi berikutnya akan diupdate</p>
+**NOTE:** untuk materi berikutnya akan diupdate
 
 ### Tugas
 1. [Tugas mandiri 1](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/tugas-mandiri.md)
