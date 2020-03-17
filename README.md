@@ -24,9 +24,9 @@ Tools yang digunakan,antara lain:
 8. Modul Praktikum 8 - **belum tersedia**
 9. Modul Praktikum 9 - **belum tersedia**
 10. Modul Praktikum 10 - **belum tersedia**
-11. Modul Praktikum 11 -  **belum tersedia**
-12. Modul Praktikum 12 -  **belum tersedia**
-13. Modul Praktikum 13 -  **belum tersedia**
+11. Modul Praktikum 11 - **belum tersedia**
+12. Modul Praktikum 12 - **belum tersedia**
+13. Modul Praktikum 13 - **belum tersedia**
 
 **NOTE:** untuk materi berikutnya akan diupdate
 
@@ -38,5 +38,6 @@ Tools yang digunakan,antara lain:
 
 ### Ujian
 1. [Soal Quiz](https://github.com/twseptian/pemrograman-python/blob/master/documents/soal-kuis.pdf) dan [pembahasannya](https://github.com/twseptian/pemrograman-python/tree/master/scripts)
-2. [Soal UTS]() - **belum tersedia**
+2. [Soal UTS](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/uts.md)
+3. Soal UAS - **belum tersedia**
 
