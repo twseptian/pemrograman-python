@@ -27,7 +27,7 @@ Tools yang digunakan,antara lain:
 | Pertemuan 8   | [Modul Praktikum 6 - Perulangan](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-6-perulangan.ipynb) dan [solusi program ]()  |
 | Pertemuan 9   | [Tugas mandiri 1](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/tugas-mandiri.md)  |
 | Pertemuan 10   | [Soal UTS](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/uts.md) dan [solusi program ]()   |
-| Pertemuan 11  | Content Cell  |
+| Pertemuan 11  | [Modul Praktikum 7 - Numbers and Strings](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-7-numbers-dan-string.ipynb.ipynb) dan [solusi program ]()  |
 | Pertemuan 12  | Content Cell  |
 | Pertemuan 13  | Content Cell  |
 | Pertemuan 14  | Content Cell  |
