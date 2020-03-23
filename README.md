@@ -17,7 +17,7 @@ Tools yang digunakan,antara lain:
 
 | Pertemuan     | Materi Pertemuan                     |
 | ------------- | ------------------------------------ |
-| Pertemuan 1   | Penjelasan mengenai RPS, Perkenalan  |
+| Pertemuan 1   | Penjelasan mengenai RPS, Perkenalan mengenai praktikum jaringan komputer |
 | Pertemuan 2   | [Modul Praktikum 1 - Menjalankan syntax dasar python](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-1-menjalankan-python.ipynb) dan [solusi program ]() |
 | Pertemuan 3   | [Modul Praktikum 2 - Tipe data pada python](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-2-tipe-data.ipynb) dan [solusi program ]()  |
 | Pertemuan 4   | [Modul Praktikum 3 - Variable](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-3-variable.ipynb) dan [solusi program ]()  |
