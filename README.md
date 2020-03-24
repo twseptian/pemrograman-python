@@ -23,7 +23,7 @@ Tools yang digunakan,antara lain:
 | Pertemuan 3   | [Modul Praktikum 2 - Tipe data pada python](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-2-tipe-data.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia|
 | Pertemuan 4   | [Modul Praktikum 3 - Variable](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-3-variable.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia|
 | Pertemuan 5   | [Modul Praktikum 4 - Operator](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-4-operator.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia|
-| Pertemuan 6   | [Soal Quiz](https://github.com/twseptian/pemrograman-python/blob/master/documents/soal-kuis.pdf) dan [Pembahasannya](https://github.com/twseptian/pemrograman-python/tree/master/scripts)  |
+| Pertemuan 6   | [Soal Quiz](https://github.com/twseptian/pemrograman-python/blob/master/documents/soal-kuis.pdf) dan [Solusi jawabannya](https://github.com/twseptian/pemrograman-python/tree/master/scripts)  |
 | Pertemuan 7   | [Modul Praktikum 5 - Kondisi](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-5-kondisi.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia |
 | Pertemuan 8   | [Modul Praktikum 6 - Perulangan](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-6-perulangan.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia |
 | Pertemuan 9   | [Tugas mandiri 1](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/tugas-mandiri.md) <br>**NOTE:** Tugas mandiri, adalah tugas tambahan selain tugas yang diberikan setelah praktikum  |
