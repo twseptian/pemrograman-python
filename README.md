@@ -31,7 +31,7 @@ Tools yang digunakan,antara lain:
 | Pertemuan 11  | [Modul Praktikum 7 - Numbers and Strings](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-7-numbers-dan-string.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia |
 | Pertemuan 12  | [Modul Praktikum 8 - List](https://nbviewer.jupyter.org/github/twseptian/pemrograman-python/blob/master/notebooks/modul-8-list.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia|
 | Pertemuan 13  | [Modul Praktikum 9 - Tuple dan Dictionary](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/modul-9-tuple-dictionary.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia  |
-| Pertemuan 14  | Content Cell  |
+| Pertemuan 14  | [Modul Praktikum 10 - Function](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/modul-10-fungsi_function.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia   |
 | Pertemuan 15  | Content Cell  |
 | Pertemuan 16  | Content Cell  |
 
