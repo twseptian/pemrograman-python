@@ -36,5 +36,5 @@ Tools yang digunakan,antara lain:
 | Pertemuan 16  | Akan diupload tanggal 6 April 2020 |
 
 
-**NOTE:** untuk materi berikutnya akan diupdate
+**NOTE:** untuk solusi program akan di upload sesudah materi selesai & tugas terkumpul semua. Mohon untuk melihat tugas praktikum tersebut apakah sudah terkumpul pada setiap assingment
 
