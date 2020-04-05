@@ -33,7 +33,7 @@ Tools yang digunakan,antara lain:
 | Pertemuan 13  | [Modul Praktikum 9 - Tuple dan Dictionary](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/modul-9-tuple-dictionary.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia  |
 | Pertemuan 14  | [Modul Praktikum 10 - Function](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/modul-10-fungsi_function.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia   |
 | Pertemuan 15  | [Modul Praktikum 11 - Object & Class](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/modul-11-object-class.ipynb)<br> [Solusi program ]() **NOTE:** belum tersedia  |
-| Pertemuan 16  | Akan diupload tanggal 6 April 2020 |
+| Pertemuan 16  | [Soal UAS](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/uas.md) |
 
 
 **NOTE:** untuk solusi program akan di upload sesudah materi selesai & tugas terkumpul semua. Mohon untuk melihat dan mengecek kembali tugas praktikum anda apakah sudah terkumpul pada setiap assingment
