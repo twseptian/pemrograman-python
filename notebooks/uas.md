@@ -3,9 +3,9 @@
 Silahkan anda kerjakan soal dan pertanyaan  sebagai berikut:
 
 1. Buat lah program dengan menampilkan kalimat yang dibalik, misalkan inputannya sebagai berikut **(20 points)**:
-<br>**Input**
+<br>**Input**<br>
 ![uas1soal](img/uas1a-soal.jpg)
-**Output**
+<br>**Output**<br>
 ![uas1soal](img/uas1a.jpg)
 
 2. Buat lah program dengan menampilkan bintang segitiga seperti pada output dibawah **(30 points)**:
