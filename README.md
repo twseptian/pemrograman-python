@@ -2,8 +2,6 @@
 
 ## Pendahuluan
 
-original url: https://github.com/twseptian/pemrograman-python
-
 Repository ini merupakan modul praktikum algoritma & pemrograman 1, menggunakan python (versi 3 keatas), selain memahami syntax pada bahasa pemrograman python, mahasiswa mengerti konsep dari algoritma, logika dalam memecahkan masalah dan mengimplementasikan nya ke dalam bahasa pemrograman. 
 
 ## Tools (IDE, compiler)
@@ -34,7 +32,6 @@ Tools yang digunakan,antara lain:
 | Pertemuan 14  | [Modul Praktikum 10 - Function](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/modul-10-fungsi_function.ipynb) |
 | Pertemuan 15  | [Modul Praktikum 11 - Object & Class](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/modul-11-object-class.ipynb) |
 | Pertemuan 16  | [Soal UAS](https://github.com/twseptian/pemrograman-python/blob/master/notebooks/uas.md).<br>**Note:** silahkan kumpulkan jawaban anda di google classroom yang sudah di sediakan|
-
 
 **NOTE:** untuk solusi program akan di upload sesudah materi selesai & tugas terkumpul semua. Mohon untuk melihat dan mengecek kembali tugas praktikum anda apakah sudah terkumpul pada setiap assingment
 
