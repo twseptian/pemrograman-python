@@ -1,6 +1,7 @@
 # Pemrograman Python untuk Pemula
 
-<a href="https://github.com/twseptian/Pemrograman-Python-Untuk-Pemula/" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+<img alt="Stars" src="https://img.shields.io/github/stars/twseptian/Pemrograman-Python-Untuk-Pemula?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/twseptian/Pemrograman-Python-Untuk-Pemula?style=flat-square&labelColor=343b41"/></p>
 
 ## Pendahuluan
 
